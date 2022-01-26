@@ -8,4 +8,4 @@ This model can be implemented to any other health issue with a few tweaks.
 
 ### Open main.ipynb for opening model with backend SQL database
 
-### Open main_static.ipynb for opening model with static database which is in csv format
+### Open main_staticData.ipynb for opening model with static database which is in csv format
